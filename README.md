@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**abssh/abssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m currently busy with collage stuff.
+- 📧 you can contact me via "abbasshiravand83@gmail.com"
+  
 
-Here are some ideas to get you started:
+## what i have worked with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,go,cpp,cs,figma,postgres&theme=light)](https://skillicons.dev)-->
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask&theme=light)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,net&theme=light)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go&theme=light)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ktor&theme=light)](https://skillicons.dev)
+<br>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg height=50 width =50>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,js&theme=light)](https://skillicons.dev)
+
+> I like java the best.
+
