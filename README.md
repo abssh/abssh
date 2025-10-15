@@ -1,6 +1,6 @@
 # 👋 Hi
 
-- 📚 I’m currently busy with collage stuff.
+- 📚 Studying SE.
 - 📧 you can contact me via "abbasshiravand83@gmail.com"
   
 
