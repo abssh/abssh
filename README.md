@@ -1,23 +1,19 @@
 # 👋 Hi
 
 - 📚 Studying SE.
-- 📧 you can contact me via "abbasshiravand83@gmail.com"
-  
+- 📧 You can contact me via "abbasshiravand83@gmail.com"
+- 🤝 I'm open to any intresting project you need my help with
 
-## what i have worked with:
+## What I have worked with:
 
-<!--[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,go,cpp,cs,figma,postgres&theme=light)](https://skillicons.dev)-->
-
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask&theme=light)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,net&theme=light)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go&theme=light)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ktor&theme=light)](https://skillicons.dev)
-<br>
+[![](https://skillicons.dev/icons?i=java,kotlin,spring,maven,ktor&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,fastapi,flask&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,net,cpp&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=dart,flutter,androidstudio&theme=light)](https://skillicons.dev)
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg height=50 width =50>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,js&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=postgres,docker,redis,kafka&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,linux,bash,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask&theme=light)](https://skillicons.dev)
 
-> I like java the best.
+
 
